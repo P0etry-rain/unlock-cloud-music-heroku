@@ -1,0 +1,8 @@
+{
+  "name": "unlockcloudmusic",
+  "description": "deploy unlockcloudmusic to Heroku",
+  "keywords": ["unlock","cloudmusic"],
+  "website": "https://github.com/P0etry-rain/unlock-cloud-music-heroku",
+  "repository": "https://github.com/P0etry-rain/unlock-cloud-music-heroku",
+  "stack": "container"
+ }

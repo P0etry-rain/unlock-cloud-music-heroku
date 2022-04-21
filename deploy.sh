@@ -1,0 +1,1 @@
+npx @nondanee/unblockneteasemusic
